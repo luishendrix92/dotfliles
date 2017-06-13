@@ -15,14 +15,22 @@ GitKraken
 Emacs 25 + Spacemacs
 Chrome
 Gyazo
-IntelliJ Idea
+IntelliJ Idea | Settings on Documentos
 LibreOffice
 Firefox
 OBS
-Java 8
 Oracle VirtualBox
 VLC Player
 Spotify
 Sublime Text 3
 Visual Studio Code
 Vocal | Gpodder
+Android Studio
+Stremio
+
+NodeJS
+Haskell
+Elixir
+PostgreSQL
+Java 8
+Leinigen | Clojure
