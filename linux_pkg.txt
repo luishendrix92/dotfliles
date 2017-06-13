@@ -25,4 +25,4 @@ VLC Player
 Spotify
 Sublime Text 3
 Visual Studio Code
-Vocal
+Vocal | Gpodder
