@@ -23,5 +23,6 @@ Java 8
 Oracle VirtualBox
 VLC Player
 Spotify
-Sublime Text 3VV
-VisualV
+Sublime Text 3
+Visual Studio Code
+Vocal
