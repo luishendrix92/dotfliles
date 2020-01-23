@@ -4,25 +4,28 @@ Whenever I format the PC and I re-install Ubuntu, this happens...
 
 ## VsCode Extensions
 
-- Flutter/Dart
-- Angular 8
-- bibtexLanguage
+- Angular 8 Snippets
 - C/C++
-- Arduino ?
-- Java Extension Pack
-- Dracula Theme
-- Maven for Java
+- C#
+- Dractula IntelliJ Theme
+- Java Pack
+- Eclipse Color Theme
+- elm
+- Gruvbox Minor
+- Haskell Syntax
 - Material Icon Theme
-- Pandoc Citer
+- Maven for Java
+- Monokai Pro
 - Parchment Theme
 - Python
-- Quokka.js
 - Scheme
 - Spring Boot Tools
 - Sunrise
-- Visual Studio IntelliCode (maybe installed by java pack?)
-- vscode-icons
-- vscode-pandoc
+- TODO Highlight
+- Todo Tree
+- Visual Studio IntelliCode
+- XML
+- Arduino [?]
 
 ## Vim Configuration
 
@@ -44,7 +47,15 @@ PATH=$PATH:~/.npm-global/bin
 PATH=$PATH:/opt/android-studio/bin/
 PATH=$PATH:/opt/flutter/bin/
 
+PATH=$PATH:~/.npm-global/bin
 alias herokupg='heroku pg:psql postgresql-tetrahedral-50242 --app blackbriar'
+
+export GEM_HOME=~/.ruby/
+export PATH="$PATH:~/.ruby/bin"
+export JAVA_HOME=/usr/lib/jvm/java-11-oracle
+
+SPARK_HOME=/usr/local/spark
+export PATH=$SPARK_HOME/bin:$PATH
 ```
 
 ## Dock software so far
@@ -52,35 +63,39 @@ alias herokupg='heroku pg:psql postgresql-tetrahedral-50242 --app blackbriar'
 Icon size of 40 pixels.
 
 1. Explorer
-2. Settings (Tweaks)
+2. Settings/Tweaks
 3. Screenshot
-4. Transmission
-5. PCSXR
-6. Spotify
-7. Libre Docs
-8. Libre Calc
-9. Typora
-10. GIMP
-11. OBS Studio
-12. Audacity
-13. Thunderbird
-14- Chrome
-15. Slack
-16. Postman
-17. VsCode
-18. DOSBox
-19. Terminal
+4. Transit
+5. Popcorn Time
+6. Steam
+7. Spotify
+8. Word
+9. Excel
+10. Typora
+11. Thunderbird
+12. Chrome
+13. Vivaldi/Firefox
+14. GIMP
+15. Audacity
+16. OBS
+17. Slack
+18. Postman
+19. VSCode
+20. Terminal
 
 ## Tweaks and Settings
 
-![Settings Mouse](settings1.png)
-![Tweaks 1](tweaks1.png)
-![Tweaks Fonts](fonts.png)
-![Tweaks 2](tweaks2.png)
-![Tweaks 3](tweaks3.png)
-![Terminal 1](terminal1.png)
-![Terminal 2](terminal2.png)
+- **Dock Icon Size**: 40
+- **Input Volume**: A tad bit above 7 bars
 
-# Windows 10 Backup Plan
+![IntelliJ Plugin List](IntelliJPlugins.png)
 
-...
+![Mouse Settings](Mouse.png)
+
+![Fonts](Fonts.png)
+
+![Fonts](Fonts.png)
+
+![Terminal Colors](TerminalColors.png)
+
+![Terminal Text](TerminalText.png)

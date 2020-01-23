@@ -20,19 +20,16 @@
     "workbench.startupEditor": "newUntitledFile",
     "git.autofetch": true,
     "files.insertFinalNewline": true,
-    "workbench.iconTheme": "material-icon-theme",
     "[java]": {},
-    "PandocCiter.DefaultBib": "paper.bib",
-    "pandoc.pdfOptString": "--filter pandoc-citeproc --biblio paper.bib -t latex --highlight-style pygments --standalone --variable documentclass=assets/latex/ieee --csl=assets/csl/ieee.csl",
-    "cSpell.userWords": [
-        "Arduino",
-        "Higibontham",
-        "archifamous",
-        "structs",
-        "videogame",
-        "videogames"
-    ],
     "explorer.confirmDragAndDrop": false,
     "breadcrumbs.enabled": true,
-    "workbench.colorTheme": "Dracula"
+    "vsicons.projectDetection.autoReload": true,
+    "calva.prettyPrint": true,
+    "metals.javaHome": "/usr/lib/jvm/java-11-oracle",
+    "terminal.integrated.fontFamily": "Pragmata Pro",
+    "todo-tree.highlights.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "debug.onTaskErrors": "showErrors",
+    "python.jediEnabled": false,
+    "workbench.colorTheme": "Darcula Theme from IntelliJ"
 }
