@@ -1,5 +1,4 @@
 {
-    "editor.fontSize": 16,
     "zenMode.hideTabs": false,
     "window.titleBarStyle": "custom",
     "editor.tabSize": 2,
@@ -24,12 +23,30 @@
     "explorer.confirmDragAndDrop": false,
     "breadcrumbs.enabled": true,
     "vsicons.projectDetection.autoReload": true,
-    "calva.prettyPrint": true,
-    "metals.javaHome": "/usr/lib/jvm/java-11-oracle",
     "terminal.integrated.fontFamily": "Pragmata Pro",
     "todo-tree.highlights.enabled": true,
-    "workbench.iconTheme": "material-icon-theme",
     "debug.onTaskErrors": "showErrors",
     "python.jediEnabled": false,
-    "workbench.colorTheme": "Darcula Theme from IntelliJ"
-}
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.renderIndentGuides": false,
+    "java.semanticHighlighting.enabled": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "terminal.integrated.rendererType": "dom",
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "workbench.iconTheme": "webstorm-icons",
+    "editor.fontSize": 16,
+    "calva.paredit.defaultKeyMap": "original"
+    }
