@@ -69,12 +69,10 @@ Icon size of 40 pixels.
 5. Popcorn Time
 6. Steam
 7. Spotify
-8. Word
 9. Excel
 10. Typora
 11. Thunderbird
 12. Chrome
-13. Vivaldi/Firefox
 14. GIMP
 15. Audacity
 16. OBS
@@ -82,6 +80,11 @@ Icon size of 40 pixels.
 18. Postman
 19. VSCode
 20. Terminal
+21. IntelliJ
+22. Android Studio
+23. Inkscape
+24. Anki
+25. TeamViewer
 
 ## Tweaks and Settings
 
