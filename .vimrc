@@ -1,18 +1,24 @@
 if has("syntax")
   syntax on
+  colo torte
 endif
+
+filetype off
+filetype plugin indent off
 
 execute pathogen#infect()
 set backupdir=~/.vim/backup//
 set directory=~/.vim/swap//
 set undodir=~/.vim/undo//
 
-"let g:airline#extensions#tabline#enabled = 1
+filetype plugin on
+
+let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
-let g:airline_theme='solarized'
+let g:airline_theme='wombat'
 
 " Editor settings
-set number
+set number relativenumber
 set t_Co=256
 set tabstop=2 shiftwidth=2 expandtab
 set smartindent
