@@ -102,3 +102,17 @@ Icon size of 40 pixels.
 ![Terminal Colors](TerminalColors.png)
 
 ![Terminal Text](TerminalText.png)
+
+## Neovim's CoC List of Plugins
+
+- coc-snippets
+- coc-eslint
+- coc-emmet
+- coc-diagnostic
+- coc-conjure
+- coc-vimtex
+- coc-tsserver
+- coc-python
+- coc-json
+- coc-java
+- coc-css
