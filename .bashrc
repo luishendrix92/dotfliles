@@ -115,14 +115,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
-# Enables Powerline
-if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
-  source /usr/share/powerline/bindings/bash/powerline.sh
-fi
-
-PATH=$PATH:~/.npm-global/bin
-export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-export DENO_INSTALL="/home/kozmicluis/.deno"
-export PATH="$DENO_INSTALL/bin:$PATH"
-export PATH="$PATH:/opt/flutter/bin"
+export PATH=~/.local/bin/:$PATH
